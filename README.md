@@ -42,7 +42,7 @@ If met any issues, go [here](https://github.com/flaaaing/Cactus-Bot/issues) to r
 
 ## Github Repository
 
-Draconian Made by Flaing, project [Here](https://github.com/flaaaing/Cactus-Bot)
+Cactus Made by Flaing, project [Here](https://github.com/flaaaing/Cactus-Bot)
 
 ## Self-Hosting & Development
 
