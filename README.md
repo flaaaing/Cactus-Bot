@@ -1,26 +1,13 @@
 <p align="center">
-            <h1>Draconian Discord Bot</h1> </center>
-
-<img src="https://img.shields.io/uptimerobot/ratio/m787007739-f881254df38f1a06bbd53346?style=flat-square"
-            alt="Uptime">
-<img alt="Discord" src="https://img.shields.io/discord/687219262406131714?label=Discord">
-<a href="https://top.gg/bot/711937599975063584">
-<img src="https://top.gg/api/widget/status/711937599975063584.svg" alt="Draconian" />
-</a>
-<a href="https://top.gg/bot/711937599975063584">
-<img src="https://top.gg/api/widget/servers/711937599975063584.svg" alt="Draconian" />
-</a>
-
+    <h1>Cactus Discord Bot</h1> </center>
 </p>
 
-Draconian Discord bot is an epic multi-purpose bot, which is very powerful and contains rich functions below.\
-Please invite me [here](https://discord.com/oauth2/authorize?client_id=711937599975063584&permissions=8&scope=bot%20applications.commands) to your server!
-
-[點擊這裏](https://github.com/RealKoolisw/DraconianJSBot/blob/main/assets/README-cn.md)閱讀 Discord 機器人中文教程 :)
+Cactus Discord bot is an epic multi-purpose bot, which is very powerful and contains rich functions below.\
+Please invite me [here](https://discord.com/oauth2/authorize?client_id=886456301415198760&permissions=8&scope=bot%20applications.commands) to your server!
 
 ## Our Bot Features:
 
-Draconian Discord Bot offers:
+Cactus Discord Bot offers:
 
 - :battery: 24/7 Full Uptime with high stability
 - :smiley: Easy to use
@@ -51,11 +38,11 @@ We have more than 80 commands in this bot, and they are **featured** and having 
 
 ## Issue/Suggestions
 
-If met any issues, go [here](https://github.com/RealKoolisw/Draconian/issues) to report bug and create new issue for supporting
+If met any issues, go [here](https://github.com/flaaaing/Cactus-Bot/issues) to report bug and create new issue for supporting
 
 ## Github Repository
 
-Draconian Made by Koolisw, project [Here](https://github.com/RealKoolisw/Draconian)
+Draconian Made by Koolisw, project [Here](https://github.com/flaaaing/Cactus-Bot)
 
 ## Self-Hosting & Development
 
@@ -81,6 +68,6 @@ Web Hosting :
 
 You can easily deploy your own intance on Heroku via clicking the button below : 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RealKoolisw/DraconianJSBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/flaaaing/Cactus-Bot)
 
 Add `PREFIX` as a variable to run the bot :D 
