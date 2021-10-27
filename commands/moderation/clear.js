@@ -42,7 +42,9 @@ module.exports.run = async (client, message, args) => {
 
 	const kntlembed = new Discord.MessageEmbed()
 		.setColor("GREEN")
-		.setDescription(`${emojis.tick} Cleared **${args[0]}** Message here`);
+		.setDescription(
+			`${emojis.tick} Cleared **${args[0]}** Message here`
+			);
 
 	try {
 		message.delete();
@@ -58,7 +60,7 @@ module.exports.run = async (client, message, args) => {
 		message.delete();
 		return message.channel
 			.send(embedssss)
-			.then(m => m.delete({ timeout: 7000 }));
+			.then(m => m.delete);
 	}
 };
 
