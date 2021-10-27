@@ -38,11 +38,11 @@ We have more than 80 commands in this bot, and they are **featured** and having 
 
 ## Issue/Suggestions
 
-If met any issues, go [here](https://github.com/flaaaing/Cactus-Bot/issues) to report bug and create new issue for supporting
+If met any issues, go [here](https://github.com/flaaaing/CactusBot/issues) to report bug and create new issue for supporting
 
 ## Github Repository
 
-Cactus Made by Flaing, project [Here](https://github.com/flaaaing/Cactus-Bot)
+Cactus Made by Flaing, project [Here](https://github.com/flaaaing/CactusBot)
 
 ## Self-Hosting & Development
 
@@ -61,8 +61,7 @@ Reminders:
 2. **Node.js version 12 or newer is recommended to run Draconian since we are using Discord.js v12**
 3. Use NPM to install the dependencies from the project folder: `npm install`
 4. Edit/create the file `.env` (or your hoster's provided environment secret) and insert your bot token in `TOKEN` value.
-5. Start the bot from the project folder: `node shard.js`
-6. Open `http://localhost:8080/` or your project URL to view the http output.
+5. Start the bot from the project folder: `node index.js`
 
 Web Hosting : 
 
