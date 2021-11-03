@@ -29,7 +29,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "pat",
 	description: "This command is used for generating pat.",
-	usage: "?pat <mentions>",
+	usage: "c!pat <mentions>",
 	accessableby: "Members",
 	aliases: []
 };

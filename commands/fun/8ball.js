@@ -27,7 +27,7 @@ module.exports.help = {
 	name: "8ball",
 	description:
 		"This command is used for asking the bot what he wanted to answer as 8ball.",
-	usage: "?8ball <questions>",
+	usage: "c!8ball <questions>",
 	accessableby: "Member",
 	aliases: []
 };

@@ -23,7 +23,7 @@ module.exports.run = (client, message, args) => {
 module.exports.help = {
 	name: "channel",
 	description: "Checking channel status.",
-	usage: "?channel <channel-mentions>(optional)",
+	usage: "c!channel <channel-mentions>(optional)",
 	accessableby: "Member",
 	aliases: []
 };

@@ -14,7 +14,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "stop",
 	description: "This command is used for stopping music.",
-	usage: "?stop",
+	usage: "c!stop",
 	accessableby: "Member",
 	aliases: ["s", "dc", "fuckoff", "disconnect"]
 };

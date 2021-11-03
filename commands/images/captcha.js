@@ -61,7 +61,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "captcha",
 	description: "This command is used for posting dog's images randomly.",
-	usage: "?captcha",
+	usage: "c!captcha",
 	accessableby: "Members",
 	aliases: []
 };

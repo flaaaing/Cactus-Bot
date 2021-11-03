@@ -15,7 +15,7 @@ module.exports.help = {
 	name: "autoplay",
 	description:
 		"This command is used for enabling or disabling autoplay features for music system.",
-	usage: "?autoplay",
+	usage: "c!autoplay",
 	accessableby: "Member",
 	aliases: []
 };

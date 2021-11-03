@@ -68,7 +68,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "magik",
 	description: "This command is used for magik.",
-	usage: "?magik",
+	usage: "c!magik",
 	accessableby: "Members",
 	aliases: []
 };

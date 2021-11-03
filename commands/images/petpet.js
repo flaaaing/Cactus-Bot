@@ -49,7 +49,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "petpet",
 	description: "Generate Pet Pet pictures.",
-	usage: "?petpet <mentions / attachments>(optional)",
+	usage: "c!petpet <mentions / attachments>(optional)",
 	accessableby: "Member",
 	aliases: []
 };

@@ -42,7 +42,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "roleinfo",
 	description: "This command is used for generating people IN RiP.",
-	usage: "?roleinfo <roles-ID>",
+	usage: "c!roleinfo <roles-ID>",
 	accessableby: "Member",
 	aliases: []
 };

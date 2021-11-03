@@ -51,7 +51,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "rip",
 	description: "This command is used for generating people IN RiP.",
-	usage: "?rip <mentions>",
+	usage: "c!rip <mentions>",
 	accessableby: "Member",
 	aliases: []
 };

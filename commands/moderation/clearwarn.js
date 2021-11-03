@@ -70,7 +70,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "clearwarn",
 	description: "Clear the warnings",
-	usage: "?clearwarn <mention>",
+	usage: "c!clearwarn <mention>",
 	accessableby: "Manage Roles",
 	aliases: []
 };

@@ -12,7 +12,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "resume",
 	description: "This command is used for resuming music.",
-	usage: "?resume",
+	usage: "c!resume",
 	accessableby: "Member",
 	aliases: []
 };

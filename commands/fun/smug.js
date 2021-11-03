@@ -14,7 +14,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "smug",
 	description: "This command is used for generating smug.",
-	usage: "?smug",
+	usage: "c!smug",
 	accessableby: "Member",
 	aliases: []
 };

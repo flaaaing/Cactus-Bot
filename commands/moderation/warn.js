@@ -149,7 +149,7 @@ module.exports.help = {
 	name: "warn",
 	description:
 		"Warn someone u hates/againsting rules, 2 warn for muting, 3 warns for kicking, 5 warns for banning",
-	usage: "?warn <mention> <reason>",
+	usage: "c!warn <mention> <reason>",
 	accessableby: "Member",
 	aliases: []
 };

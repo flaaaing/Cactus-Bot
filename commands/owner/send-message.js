@@ -11,7 +11,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "send-message",
 	description: "N/A",
-	usage: "?send-message [Message]",
+	usage: "c!send-message [Message]",
 	accessableby: "Bot Owners",
 	aliases: []
 };

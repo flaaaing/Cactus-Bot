@@ -25,7 +25,7 @@ exports.run = (client, msg, args) => {
 module.exports.help = {
 	name: "thigh",
 	description: "This command is used for generating thigh image.",
-	usage: "?thigh",
+	usage: "c!thigh",
 	accessableby: "NSFW/Member",
 	aliases: []
 };

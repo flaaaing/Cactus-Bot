@@ -26,7 +26,7 @@ module.exports.help = {
 	name: "holo",
 	description:
 		"This command is used for calling NSFW images API to send them, but NSFW channel needed.",
-	usage: "?holo",
+	usage: "c!holo",
 	accessablechannel: "NSFW Channel",
 	accessableby: "NSFW/Member",
 	aliases: []

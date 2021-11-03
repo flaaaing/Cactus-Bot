@@ -18,7 +18,7 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
 	name: "cat",
 	description: "This command is used for posting cat's images randomly.",
-	usage: "?cat",
+	usage: "c!cat",
 	accessableby: "Members",
 	aliases: []
 };

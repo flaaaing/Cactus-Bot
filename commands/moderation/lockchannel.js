@@ -85,7 +85,7 @@ module.exports.run = (client, message, args) => {
 module.exports.help = {
 	name: "lockchannel",
 	description: "This command is used for locking the channels.",
-	usage: "?lockchannel <duration>",
+	usage: "c!lockchannel <duration>",
 	accessableby: "Manage Channels",
 	aliases: []
 };

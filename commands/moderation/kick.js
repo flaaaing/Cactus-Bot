@@ -88,7 +88,7 @@ module.exports.help = {
 	name: "kick",
 	description:
 		"This command is used for kicking people u hates or againsting your server rules.",
-	usage: "?kick <mentions> <reason>",
+	usage: "c!kick <mentions> <reason>",
 	accessableby: "Kick Members",
 	aliases: []
 };

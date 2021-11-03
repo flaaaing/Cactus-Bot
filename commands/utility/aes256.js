@@ -26,7 +26,7 @@ module.exports.help = {
 	name: "aes256",
 	description:
 		"This command is used for encrypting your text data with AES256 encryption",
-	usage: "?aes256",
+	usage: "c!aes256",
 	accessableby: "Member",
 	aliases: []
 };

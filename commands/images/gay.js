@@ -49,7 +49,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "gay",
 	description: "This command is used for making an image to be rainbow",
-	usage: "?gay <mentions or attachment>",
+	usage: "c!gay <mentions or attachment>",
 	accessableby: "Memeber",
 	aliases: []
 };

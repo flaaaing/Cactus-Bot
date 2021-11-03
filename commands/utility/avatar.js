@@ -23,7 +23,7 @@ module.exports.run = (client, message, args) => {
 module.exports.help = {
 	name: "avatar",
 	description: "This command is used for showing your/other member's avatar.",
-	usage: "?avatar <mentions>(optional)",
+	usage: "c!avatar <mentions>(optional)",
 	accessableby: "Member",
 	aliases: ["av"]
 };

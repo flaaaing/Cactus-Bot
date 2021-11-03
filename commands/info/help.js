@@ -89,7 +89,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "help",
 	description: "This command is used for displaying all commands.",
-	usage: "?help",
+	usage: "c!help",
 	accessableby: "Members",
 	aliases: []
 };

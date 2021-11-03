@@ -43,7 +43,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "warnings",
 	description: "Check the people you mentioned who has warnings or not",
-	usage: "?warnings <mention>",
+	usage: "c!warnings <mention>",
 	accessableby: "Members",
 	aliases: []
 };

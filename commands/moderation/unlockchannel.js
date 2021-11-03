@@ -44,7 +44,7 @@ exports.run = (client, message, args) => {
 module.exports.help = {
 	name: "unlockchannel",
 	description: "This command is used for unlockchanneling",
-	usage: "?unlockchannel",
+	usage: "c!unlockchannel",
 	accessableby: "Manage Channels",
 	aliases: []
 };

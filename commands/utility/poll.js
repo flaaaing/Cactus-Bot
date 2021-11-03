@@ -57,7 +57,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "poll",
 	description: "This command is used for embedding stuff in discord",
-	usage: "?poll <something>",
+	usage: "c!poll <something>",
 	accessableby: "Member",
 	aliases: []
 };

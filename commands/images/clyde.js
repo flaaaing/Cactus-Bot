@@ -23,7 +23,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "clyde",
 	description: "Acts like clyde",
-	usage: "?clyde <text>",
+	usage: "c!clyde <text>",
 	accessableby: "Member",
 	aliases: []
 };

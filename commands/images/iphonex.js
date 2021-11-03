@@ -58,7 +58,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "iphonex",
 	description: "This command is used for posting dog's images randomly.",
-	usage: "?iphonex",
+	usage: "c!iphonex",
 	accessableby: "Members",
 	aliases: []
 };

@@ -15,7 +15,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "ngif",
 	description: "This command is used for generating ngif.",
-	usage: "?ngif",
+	usage: "c!ngif",
 	accessableby: "Members",
 	aliases: []
 };

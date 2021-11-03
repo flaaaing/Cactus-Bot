@@ -73,7 +73,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "uptime",
 	description: "This command is used for reporting bot's uptime",
-	usage: "?uptime",
+	usage: "c!uptime",
 	accessableby: "Member",
 	aliases: []
 };

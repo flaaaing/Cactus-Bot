@@ -26,7 +26,7 @@ module.exports.help = {
 	name: "porn",
 	description:
 		"This command is used for calling NSFW images API to send them, but NSFW channel needed.",
-	usage: "?poke <mention>",
+	usage: "c!poke <mention>",
 	accessableby: "NSFW/Members",
 	aliases: []
 };

@@ -91,7 +91,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "unmute",
 	description: "This command is used for unmuting someone",
-	usage: "?unmute <mention>",
+	usage: "c!unmute <mention>",
 	accessableby: "Manage Roles",
 	aliases: []
 };

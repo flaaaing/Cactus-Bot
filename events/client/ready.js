@@ -33,7 +33,7 @@ module.exports = async client => {
 	setInterval(
 		() =>
 			client.user.setActivity(
-				`?help | ${activities[i++ % activities.length]}`,
+				`c!help | ${activities[i++ % activities.length]}`,
 				{ type: "WATCHING" }
 			),
 		15000

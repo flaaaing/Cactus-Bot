@@ -18,7 +18,7 @@ module.exports.run = async (client, message, args, tools) => {
 module.exports.help = {
 	name: "wallpaper",
 	description: "Generating NSFW wallpapers randomly",
-	usage: "?wallpaper",
+	usage: "c!wallpaper",
 	accessableby: "NSFW/Member",
 	aliases: []
 };

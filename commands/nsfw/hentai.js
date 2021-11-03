@@ -22,7 +22,7 @@ module.exports.help = {
 	name: "hentai",
 	description:
 		"This command is used for calling NSFW images API to send them, but NSFW channel needed.",
-	usage: "?hentai",
+	usage: "c!hentai",
 	accessablechannel: "NSFW Channel",
 	accessableby: "NSFW/Member",
 	aliases: []

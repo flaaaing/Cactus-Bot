@@ -25,7 +25,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "tickle",
 	description: "This command is used for generating tickle image.",
-	usage: "?tickle <mention>",
+	usage: "c!tickle <mention>",
 	accessableby: "Member",
 	aliases: []
 };

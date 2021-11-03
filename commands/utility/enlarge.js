@@ -28,7 +28,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "enlarge",
 	description: "This command is used for enlarging some emoji from everywhere",
-	usage: "?enlarge <emojis>",
+	usage: "c!enlarge <emojis>",
 	accessableby: "Memeber",
 	aliases: []
 };

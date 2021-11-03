@@ -14,7 +14,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "reverse",
 	description: "This command is used for reversing words.",
-	usage: "?reverse",
+	usage: "c!reverse",
 	accessableby: "Member",
 	aliases: []
 };

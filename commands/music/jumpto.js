@@ -11,7 +11,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "jumpto",
 	description: "This command is used for jumping to song into specify queue.",
-	usage: "?jumpto <queue number>",
+	usage: "c!jumpto <queue number>",
 	accessableby: "Members",
 	aliases: []
 };

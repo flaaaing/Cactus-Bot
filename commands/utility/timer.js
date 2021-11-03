@@ -42,7 +42,7 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
 	name: "timer",
 	description: "This command is used for timing.",
-	usage: "?timer <duration in ms>",
+	usage: "c!timer <duration in ms>",
 	accessableby: "Member",
 	aliases: []
 };

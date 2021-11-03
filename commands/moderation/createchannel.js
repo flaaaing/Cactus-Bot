@@ -35,7 +35,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "createchannel",
 	description: "Create channel easily with commands",
-	usage: "?createchannel <name> <type: text/voice>",
+	usage: "c!createchannel <name> <type: text/voice>",
 	accessableby: "Manage Channels",
 	aliases: []
 };

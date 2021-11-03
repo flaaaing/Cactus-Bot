@@ -18,7 +18,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "database-get",
 	description: "N/A",
-	usage: "?database-get",
+	usage: "c!database-get",
 	accessableby: "Bot Owners",
 	aliases: []
 };

@@ -25,7 +25,7 @@ module.exports.run = async (bot, message, args) => {
 module.exports.help = {
 	name: "urban",
 	description: "This command is used for fetching urban stuff",
-	usage: "?urban <search stuff>",
+	usage: "c!urban <search stuff>",
 	accessableby: "NSFW/Member",
 	aliases: []
 };

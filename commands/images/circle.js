@@ -50,7 +50,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "circle",
 	description: "Circle the images or avatar",
-	usage: "?circle <mentions>(optional)",
+	usage: "c!circle <mentions>(optional)",
 	accessableby: "Member",
 	aliases: []
 };

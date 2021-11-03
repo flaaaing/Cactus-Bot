@@ -15,7 +15,7 @@ module.exports.run = async (client, message, args) => {
 module.exports.help = {
 	name: "invite",
 	description: "This command is used for creating invite links.",
-	usage: "?invite",
+	usage: "c!invite",
 	accessableby: "Members",
 	aliases: []
 };

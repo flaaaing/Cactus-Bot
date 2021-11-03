@@ -43,7 +43,7 @@ module.exports.help = {
 	name: "weather",
 	description:
 		"Check the weather in your location or area within newest climate/weather status",
-	usage: "?weather <location/area>",
+	usage: "c!weather <location/area>",
 	accessableby: "Members",
 	aliases: []
 };
