@@ -14,7 +14,7 @@ module.exports.run = async (client, message, args) => {
 			)
 			.setColor("GREEN")
 			.setDescription(
-				`**My prefix:** \`${prefixesdatabase.prefix}\` , ${emojis.slash} Slash Commands list for \`/help\`\nClick [HERE](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot%20applications.commands) to invite me to your server.`
+				`**My prefix:** \`${prefixesdatabase.prefix}\` , \nClick [HERE](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot%20applications.commands) to invite me to your server.`
 			)
 			.addField(
 				"**📱Basic**", "`help`, `ping`, `vote`, `uptime`"
@@ -29,7 +29,7 @@ module.exports.run = async (client, message, args) => {
 			)
 			.addField(
 				"**:tada:Giveaways**",
-				"`start-giveaway`, `reroll`, `end-giveaway`"
+				"`gstart`, `greroll`, `gend`"
 			)
 			.addField(
 				"**:frame_photo:Image**",
@@ -47,7 +47,9 @@ module.exports.run = async (client, message, args) => {
 				"**:underage:NSFW**",
 				"`4knsfw`, `anal`, `ass`, `hentai`, `holo`, `pussy`, `porn`, `urban`, `thigh`"
 			)
-			.addField("**:gear:Custom Function**", "`setprefix`")
+			.addField(
+				"**:gear:Custom Function**", "`setprefix`"
+			)
 			.setFooter(
 				`© ${nowyear} ${client.user.username} | This command requested by ${message.author.username}#${message.author.discriminator}`
 			);
