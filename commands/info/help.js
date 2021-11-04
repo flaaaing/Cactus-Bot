@@ -51,7 +51,7 @@ module.exports.run = async (client, message, args) => {
 				"**:gear:Custom Function**", "`setprefix`"
 			)
 			.setFooter(
-				`© ${nowyear} ${client.user.username} | This command requested by ${message.author.username}#${message.author.discriminator}`
+				`© 2021 ${client.user.username} | This command requested by ${message.author.username}#${message.author.discriminator}`
 			);
 		return message.channel.send({ embed });
 	};

@@ -129,4 +129,4 @@ client.ws.on("INTERACTION_CREATE", async interaction => {
 	}
 });
 
-client.login(process.env.TOKEN);
+client.login(process.env.TOKENDEV);

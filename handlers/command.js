@@ -11,9 +11,9 @@ module.exports = async client => {
 			const commandName = commands.split(".")[0];
 			console.log(`Command Loaded ${commands}`);
 			client.commands.set(commandName, command);
-			command.help.aliases.forEach(alias => {
-				client.aliases.set(alias, commandName);
-			});
+			// command.help.aliases.forEach(alias => {
+			// 	client.aliases.set(alias, commandName);
+			// });
 		}
 	}
 };
