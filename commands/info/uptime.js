@@ -61,8 +61,8 @@ module.exports.run = async (client, message, args) => {
 						`${ut_day} Day, ${ut_hour} Hrs, ${ut_min} Min, ${ut_sec} Sec`
 					)
 					.addField("Uptime Percentage", `${numberas}%`)
-					//	.addField("Now Time", nowtime)
-					//	.addField('Bootup Time', derweSA);;
+						.addField("Now Time", nowtime)
+						.addField('Bootup Time', derweSA)
 					.setFooter(`Last Launched at ${derweSA}`);
 
 				message.edit(serverembedss);

@@ -17,7 +17,7 @@ module.exports.run = async (client, message, args) => {
 				`**My prefix:** \`${prefixesdatabase.prefix}\` , \nClick [HERE](https://discord.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot%20applications.commands) to invite me to your server.`
 			)
 			.addField(
-				"**📱Basic**", "`help`, `ping`, `vote`, `uptime`"
+				"**📱Basic**", "`help`, `ping`, `uptime`"
 			)
 			.addField(
 				"**⚙utility**",

@@ -143,7 +143,7 @@ module.exports.run = (client, message, [args, ...words]) => {
 			);
 		if (args[2] !== "-")
 			return message.channel.send(
-				'Please correctly format the command, like so\n\n`c!translate en-es "word or sentence to translate"`'
+				'Please use correctly the command, like so \n`c!translate <language>-<to-translate-language> <text>`'
 			);
 		if (!langs.hasOwnProperty(targetLang))
 			return message.channel.send(
